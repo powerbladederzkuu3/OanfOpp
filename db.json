@@ -2,7 +2,7 @@
     "IahdGame": {
         "code": 200,
         "data": {
-            "eaae": true,
+            "eaae": false,
             "sion": "1.0.0"
         }
     }
